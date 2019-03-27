@@ -1,0 +1,24 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body{
+   background: #92BD29;
+   
+}
+
+
+
+
+
+
+   // ==================sass-import=========
+@import "about";
+@import "career";
+@import "client";
+@import "contact";
+@import "portfolio";
+@import "service";
+@import "trainning";
