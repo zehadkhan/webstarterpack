@@ -12,7 +12,8 @@
 
 	$ npm install
 
-	//or//
+	#or
+
 #windows cmd
 
 	C:\users\npm install
