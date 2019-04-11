@@ -23,7 +23,7 @@
 					----------install gulp------------
 #globally
 
-1.npm i gulp-install
+	1.npm i gulp-install
 
 #run your project
 					
