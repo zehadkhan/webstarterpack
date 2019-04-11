@@ -12,7 +12,7 @@
 
 	$ npm install
 
-	#or
+#or
 
 #windows cmd
 
