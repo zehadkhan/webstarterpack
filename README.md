@@ -11,15 +11,16 @@
 #git bash on your project folder //or #ubuntu-terminal
 
 #npn globally install
-	$ npm i npm-install-global
+
+	$npm i npm-install-global
 
 #full node modules install in your project folder
 
-	$ npm install
+	$npm install
 	
 #or/ if you want install single task runner (gulp) in your project folder :> gulp 
 
-	$ npm install gulp
+	$npm install gulp
 #or
 
 #windows cmd
@@ -29,7 +30,7 @@
 #====================================
 					
 					----------install gulp------------
-#globally
+#globally gulp file install
 
 	1.$ npm i gulp-install
 	
