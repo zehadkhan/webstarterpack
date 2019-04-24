@@ -30,9 +30,17 @@
 #====================================
 					
 					----------install gulp------------
+					
+	1.$npm install -g gulp-cli
+				
 #globally gulp file install
 
+	1.$ npm install gulp -g
+	
+#local gulp install
+	
 	1.$ npm i gulp-install
+
 	
 #or just in your project folder
 	1.$ npm install gulp
