@@ -26,4 +26,5 @@ someOtherfoler/
 *.rar
 *.tar
 *.zip
+*.pkg
 *.s
